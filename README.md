@@ -16,6 +16,13 @@ Creating a scatter plot that shows the number of mice still alive through the co
 
 # Findings
 
+Of the four treatments examined, only Capomulin showed a decrease in overall tumor size throughout the study period.
+Despite decreasing tumor size, Capomulin did not stop the spread of metastaic sites. However it did have the lowest rate of metastic spread of the four treatments.
+
+Treatment including Capomulin exhibits slower decrease in survival rates.
+Ketapril appears to have no better outcome than the placebo.
+
+
 ![x](images1/MetastaticSpreadDuringTreatment.png)
 
 ![x](images1/TumorSpreadDuringTreatment.png)
